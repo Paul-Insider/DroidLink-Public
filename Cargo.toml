@@ -1,0 +1,10 @@
+[package]
+name = "droidlink-local-policy"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "Standalone DROIDLINK public demonstration of explicit local-address validation"
+license-file = "LICENSE"
+repository = "https://github.com/Paul-Insider/DroidLink-Public"
+
+[dependencies]
