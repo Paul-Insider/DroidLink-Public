@@ -4,8 +4,7 @@
 
 **DROIDLINK — Public Engineering**
 
-Author and rights holder for the original materials: **Patrice Paul SARDA**.
-Public professional identity: **Paul Insider**.
+Author and rights holder for the original materials: **Paul Insider**.
 GitHub profile: https://github.com/Paul-Insider
 
 This page concerns the public engineering repository only. It is not a sales

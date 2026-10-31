@@ -59,7 +59,7 @@ There are no language-spoofing overrides or generated filler files.
 
 ## Rights and contact
 
-Created by **Patrice Paul SARDA — Paul Insider**.
+Created by **Paul Insider**.
 
 The source is public for inspection and local evaluation under [LICENSE](LICENSE).
 This is not an OSI-approved open-source license and does not license the private

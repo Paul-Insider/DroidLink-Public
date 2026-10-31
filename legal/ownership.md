@@ -1,7 +1,7 @@
 # Ownership and scope
 
 The original public sample and documentation are authored for DROIDLINK,
-created and developed by Patrice Paul SARDA, publicly known as Paul Insider.
+created and developed by Paul Insider.
 
 The LICENSE file grants limited inspection and local evaluation rights for this
 repository. It does not grant rights to the private product or its branding.
